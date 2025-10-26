@@ -17,10 +17,10 @@ Este sistema foi criado originalmente para atender à necessidade do meu própri
 ## 📸 Capturas de Tela
 
 #### - Painel Principal
-![Painel Principal](docs/painel-principal.png)
+![Painel Principal](docs/painel-principal_v2.png)
 
 #### - Cadastro de Contas
-![Cadastro Contas](docs/cadastro-contas.png)
+![Cadastro Contas](docs/cadastro-contas_v2.png)
 
 #### - Gerenciar Contas
-![Gerenciar Contas](docs/gerenciar-contas.png)
+![Gerenciar Contas](docs/gerenciar-contas_v2.png)
